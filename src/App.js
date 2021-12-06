@@ -1,3 +1,4 @@
+import Nav from './Components/Nav';
 
 function App() {
   return (
