@@ -11,3 +11,7 @@
 main{
     flex: 1;
 }
+.button{
+    padding-left: 35em;
+    padding-top: 5em;
+}
